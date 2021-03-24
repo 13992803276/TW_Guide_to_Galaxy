@@ -7,7 +7,7 @@ public class ErrorProcess {
 	private final static String ERRORMSASSGE3 = "Error : Current Roman numer do not exist in  ROMAN_TO_NUMERIC_MAPPING dictionary.";
 	private final static String ERRORMSASSGE4 = "Error : Current Roman numer don't fit the rule of subtraction.";
 	/**
-	 * output the error message on console
+	 * output the error message on console 分装异常信息
 	 * @param output
 	 * @return
 	 */
