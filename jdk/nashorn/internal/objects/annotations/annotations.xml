@@ -1,0 +1,5 @@
+<root>
+    <item name='jdk.nashorn.internal.objects.annotations.Setter'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
